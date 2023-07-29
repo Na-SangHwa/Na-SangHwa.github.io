@@ -1,4 +1,4 @@
-[
+[,
 {
 	"uri": "https://Na-SangHwa.github.io/",
 	"title": "NSH&#39;s Tech Blog",
@@ -7,16 +7,16 @@
 	"content": "hi\n"
 },
 {
-	"uri": "https://Na-SangHwa.github.io/test/test/",
+	"uri": "https://Na-SangHwa.github.io/projects/",
+	"title": "Project",
+	"tags": [],
+	"description": "",
+	"content": "test\n"
+},
+{
+	"uri": "https://Na-SangHwa.github.io/projects/test/",
 	"title": "Test2",
 	"tags": [],
 	"description": "",
 	"content": "test2\n"
-},
-{
-	"uri": "https://Na-SangHwa.github.io/test/",
-	"title": "Test",
-	"tags": [],
-	"description": "",
-	"content": "test\n"
 }]
