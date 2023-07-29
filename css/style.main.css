@@ -69,7 +69,7 @@ body {
         body article section.right-menu > div label {
           font-weight: 700;
           letter-spacing: -1px;
-          display: block;
+          display: none;
           margin-bottom: 14px;
           border-bottom: 1px dotted #999999;
           color: #333333;
@@ -94,6 +94,7 @@ body {
           body article section.right-menu > div li a {
             /*padding-left: 2px;*/ }
       body article section.right-menu .Actions {
+        display: active;
         font-size: 75%; }
   body footer {
     background-color: #333333;
