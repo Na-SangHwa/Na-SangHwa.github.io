@@ -1,5 +1,19 @@
 [,
 {
+	"uri": "https://Na-SangHwa.github.io/algorithm/",
+	"title": "Algorithm",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://Na-SangHwa.github.io/data-structure/",
+	"title": "Data Structure",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://Na-SangHwa.github.io/fun/",
 	"title": "Fun",
 	"tags": [],
@@ -19,6 +33,13 @@
 	"tags": [],
 	"description": "",
 	"content": "project\n"
+},
+{
+	"uri": "https://Na-SangHwa.github.io/data-structure/test/",
+	"title": "test",
+	"tags": [],
+	"description": "",
+	"content": "obsidian test\n"
 },
 {
 	"uri": "https://Na-SangHwa.github.io/projects/test2/",
