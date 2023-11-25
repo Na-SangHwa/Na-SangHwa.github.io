@@ -106,7 +106,7 @@ body {
 article section.page {
   background-color: inherit; }
   article section.page #ariane {
-    display: block;
+    display: none;
     font-size: 1rem;
     line-height: 1.5;
     letter-spacing: -.01em;
