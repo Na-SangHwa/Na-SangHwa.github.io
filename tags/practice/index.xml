@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>NSH&#39;s blog</title>
-    <link>https://Na-SangHwa.github.io/</link>
-    <description>Recent content on NSH&#39;s blog</description>
+    <title>practice on NSH&#39;s blog</title>
+    <link>https://Na-SangHwa.github.io/tags/practice/</link>
+    <description>Recent content in practice on NSH&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Nov 2023 02:34:43 +0900</lastBuildDate><atom:link href="https://Na-SangHwa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Nov 2023 02:34:43 +0900</lastBuildDate><atom:link href="https://Na-SangHwa.github.io/tags/practice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pracitce_두 큐 합 같게 만들기</title>
       <link>https://Na-SangHwa.github.io/posts/algorithm/practice/2022kakao-equalize-sum/</link>
@@ -15,8 +15,6 @@
       <guid>https://Na-SangHwa.github.io/posts/algorithm/practice/2022kakao-equalize-sum/</guid>
       <description>2022 KAKAO TECH INTERNSHIP</description>
     </item>
-    
-    
     
   </channel>
 </rss>

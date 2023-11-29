@@ -2,20 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Na-SangHwa.github.io/tags/2022kakao/</loc>
+    <lastmod>2023-11-30T02:34:43+09:00</lastmod>
+  </url><url>
+    <loc>https://Na-SangHwa.github.io/tags/algorithm/</loc>
+    <lastmod>2023-11-30T02:34:43+09:00</lastmod>
+  </url><url>
     <loc>https://Na-SangHwa.github.io/posts/algorithm/</loc>
+    <lastmod>2023-11-30T02:34:43+09:00</lastmod>
+  </url><url>
+    <loc>https://Na-SangHwa.github.io/</loc>
+    <lastmod>2023-11-30T02:34:43+09:00</lastmod>
+  </url><url>
+    <loc>https://Na-SangHwa.github.io/posts/</loc>
+    <lastmod>2023-11-30T02:34:43+09:00</lastmod>
+  </url><url>
+    <loc>https://Na-SangHwa.github.io/posts/algorithm/practice/2022kakao-equalize-sum/</loc>
+    <lastmod>2023-11-30T02:34:43+09:00</lastmod>
+  </url><url>
+    <loc>https://Na-SangHwa.github.io/tags/practice/</loc>
+    <lastmod>2023-11-30T02:34:43+09:00</lastmod>
+  </url><url>
+    <loc>https://Na-SangHwa.github.io/posts/algorithm/practice/</loc>
+    <lastmod>2023-11-30T02:34:43+09:00</lastmod>
+  </url><url>
+    <loc>https://Na-SangHwa.github.io/tags/</loc>
+    <lastmod>2023-11-30T02:34:43+09:00</lastmod>
   </url><url>
     <loc>https://Na-SangHwa.github.io/archives/</loc>
   </url><url>
     <loc>https://Na-SangHwa.github.io/categories/</loc>
   </url><url>
-    <loc>https://Na-SangHwa.github.io/</loc>
-  </url><url>
-    <loc>https://Na-SangHwa.github.io/posts/</loc>
-  </url><url>
-    <loc>https://Na-SangHwa.github.io/posts/algorithm/practice/</loc>
-  </url><url>
     <loc>https://Na-SangHwa.github.io/search/</loc>
-  </url><url>
-    <loc>https://Na-SangHwa.github.io/tags/</loc>
   </url>
 </urlset>
